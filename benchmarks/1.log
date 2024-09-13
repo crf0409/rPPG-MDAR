@@ -1,0 +1,2 @@
+nohup: 忽略输入
+/home/siton01/下载/benchmarksql5/benchmarksql/run/runBenchmark.sh:行15: ./funcs.sh: 没有那个文件或目录
