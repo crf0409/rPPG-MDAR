@@ -13,7 +13,7 @@ This project has developed an innovative remote Photoplethysmography (rPPG) meth
 
 ## Results Showcase
 
-Below are the heart rate detection results on the UBFC and PURE datasets.
+Below are the heart rate detection results on the UBFC and PURE MMPD datasets.
 
 ![Dataset Result](mape.png)
 *UBFC Dataset Results*
@@ -56,7 +56,7 @@ ls
 
 ## 结果展示
 
-以下是在UBFC和PURE数据集上的心率检测效果展示。
+以下是在UBFC和PURE MMPD数据集上的心率检测效果展示。
 
 ![Dataset Result](mape.png)
 *UBFC 数据集结果*
@@ -81,3 +81,4 @@ cd rppg_MDAR/TS-CAN-v1
 ls
 ```
 
+# rPPG-MDAR
